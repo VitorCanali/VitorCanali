@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://github.com/VitorCanali">
-  Vitor
-  </a>
+
+  #Vitor
+  
 </p>
 
 <!-- Social icons section -->

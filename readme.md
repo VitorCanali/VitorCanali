@@ -1,7 +1,10 @@
 <p align="center"> 
   
-  <img src="https://i.imgur.com/Q9dbZWG.png" width="1000px" />
-<div/>
+ <br clear="both">
+
+<h1 align="center">VITOR CANALI ᓚᘏᗢ</h1>
+
+###
 
 ### Sou um estudante do Sesi e do Senai.
 ### Atualmente estou no 2°Ano do Ensino médio e estou cursando Desenvolvimento de Sistemas.
@@ -51,8 +54,19 @@
 ## Estatisticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorCanali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorCanali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorCanali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+###
+
+
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/VitorCanali/count.svg?"  />
 </div>
 
 ###

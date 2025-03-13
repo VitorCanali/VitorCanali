@@ -1,6 +1,6 @@
 <p align="center"> 
   
-  <img src="https://i.imgur.com/wq5Oytd.png" width="1000px" />
+  <img src="https://i.imgur.com/Q9dbZWG.png" width="1000px" />
 <div/>
 
 ### Sou um estudante do Sesi e do Senai.

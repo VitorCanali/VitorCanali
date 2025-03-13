@@ -60,10 +60,11 @@
 ###
 
 
-### 🤖 Linguagens e Tecnologias
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudando...)](https://git.io/typing-svg)
+<details closed> 
+  <summary><h2>🤖 Linguagens e Tecnologias</h2></summary>
 
-###
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudando...)](https://git.io/typing-svg)
+</details>
 
 
 

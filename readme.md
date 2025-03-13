@@ -1,7 +1,6 @@
 <p align="center">
- #Vitor 
+ Vitor 
   <a
-  #Vitor
   </a>
 </p>
 

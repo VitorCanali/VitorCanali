@@ -58,22 +58,27 @@
 </div>
 
 ###
-###
 
 
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VitorCanali/count.svg?"  />
-</div>
+### 🤖 Linguagens e Tecnologias
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudando...)](https://git.io/typing-svg)
 
 ###
+
+
+
+
+
+
+
+
+
+### ----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=At%C3%A9+logo!)](https://git.io/typing-svg)
 
 <p align="center"> 
   
-  <img src="https://i.imgur.com/xBigWWN.png" width="1000px" />
+  <img src="https://i.imgur.com/YK6t7vh.png" width="600px" />
 <div/>
 
 </p>

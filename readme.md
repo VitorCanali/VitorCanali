@@ -32,7 +32,6 @@
   <a href="https://www.youtube.com/@Tenta_">
   <a href="https://github.com/VitorCanali?tab=followers">
     <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
 
 </p>
 

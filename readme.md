@@ -7,7 +7,7 @@
 ###
 
 ### Sou um estudante do Sesi e do Senai.
-### Atualmente estou no 2°Ano do Ensino médio e estou cursando Desenvolvimento de Sistemas.
+### Atualmente estou no 3°Ano do Ensino médio e estou cursando Desenvolvimento de Sistemas.
 ### Sou bom em aprender coisas novas com rapidez e em solucionar problemas de formas criativas.
 
 

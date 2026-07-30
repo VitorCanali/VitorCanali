@@ -31,12 +31,6 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
-  <a href="https://www.youtube.com/@Tenta_"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vitor-matheus-canali-pereira/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@Tenta_">
-  <a href="https://github.com/VitorCanali?tab=followers">
      <a href="">
         <img 
             alt="Local" 
@@ -50,27 +44,33 @@
 
 ###
 
+---
 
 <details closed> 
   <summary><h2>🤖 Linguagens e Tecnologias</h2></summary>
 
-#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudando...)](https://git.io/typing-svg)
-</details>
+<p align="center">
 
-
-
-
-
-
-
-
-
-### ----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=At%C3%A9+logo!)](https://git.io/typing-svg)
-
-<p align="center"> 
-  
-  <img src="https://i.imgur.com/YK6t7vh.png" width="600px" />
-<div/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,nodejs,mysql,sqlite,github,vscode,figma" />
 
 </p>
+
+</details>
+
+---
+
+## 📫 Como entrar em contato
+
+<p align="center">
+
+📧 **E-mail:** **vitorcanali67@gmail.com**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/vitor-matheus-canali-pereira/
+
+📷 **Instagram:** https://www.instagram.com/teeeeenta_/
+
+💻 **GitHub:** https://github.com/VitorCanali
+
+</p>
+
+---

@@ -15,7 +15,6 @@
 
 
 
-  ### Follow in Instagram "[@teeeeenta_](https://www.instagram.com/teeeeenta_/)".
 
 </p>
 <!-- Social icons section -->
